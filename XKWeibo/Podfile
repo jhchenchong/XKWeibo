@@ -1,0 +1,22 @@
+
+# platform :ios, '8.0'
+
+target 'XKWeibo' do
+
+use_frameworks!
+
+pod 'Alamofire'
+
+pod 'SnapKit'
+
+pod 'YYModel'
+
+pod 'YYWebImage'
+
+pod 'SVProgressHUD'
+
+pod 'pop'
+
+pod 'FFLabel'
+
+end
