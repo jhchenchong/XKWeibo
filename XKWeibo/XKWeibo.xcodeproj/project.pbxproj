@@ -546,7 +546,7 @@
 				TargetAttributes = {
 					B75774CE1E0AB972001D8E1F = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = YFL38H2HE3;
+						DevelopmentTeam = QKE95RP5NG;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -805,11 +805,12 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = YFL38H2HE3;
+				CODE_SIGN_IDENTITY = "iPhone Developer: haoqin Han (EZRAEJCB4D)";
+				DEVELOPMENT_TEAM = QKE95RP5NG;
 				INFOPLIST_FILE = XKWeibo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jhcc.com.ZZT;
+				PRODUCT_BUNDLE_IDENTIFIER = jhcc.com.weibo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "XKWeibo/XK-Bridge.h";
 				SWIFT_VERSION = 3.0;
@@ -823,11 +824,12 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				DEVELOPMENT_TEAM = YFL38H2HE3;
+				CODE_SIGN_IDENTITY = "iPhone Developer: haoqin Han (EZRAEJCB4D)";
+				DEVELOPMENT_TEAM = QKE95RP5NG;
 				INFOPLIST_FILE = XKWeibo/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = jhcc.com.ZZT;
+				PRODUCT_BUNDLE_IDENTIFIER = jhcc.com.weibo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "XKWeibo/XK-Bridge.h";
 				SWIFT_VERSION = 3.0;
