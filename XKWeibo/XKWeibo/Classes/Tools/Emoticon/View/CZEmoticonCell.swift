@@ -29,7 +29,7 @@ class CZEmoticonCell: UICollectionViewCell {
     /// 当前页面的表情模型数组，`最多` 20 个
     var emoticons: [CZEmoticon]? {
         didSet {
-            print("表情包的数量 \(emoticons?.count)")
+            print("表情包的数量 \(String(describing: emoticons?.count))")
             // 1. 隐藏所有的按钮
             for v in contentView.subviews {
                 v.isHidden = true

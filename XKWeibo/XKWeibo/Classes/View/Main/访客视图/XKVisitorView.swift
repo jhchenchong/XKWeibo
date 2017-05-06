@@ -59,7 +59,7 @@ class XKVisitorView: UIView {
         
         let anim = CABasicAnimation(keyPath: "transform.rotation")
         
-        anim.toValue = 2 * M_PI
+        anim.toValue = 2 * Double.pi
         
         anim.repeatCount = MAXFLOAT
         

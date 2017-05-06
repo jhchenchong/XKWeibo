@@ -44,7 +44,7 @@ class XKRefreshView: CCRefreshView {
         
         let anim = CABasicAnimation(keyPath: "transform.rotation")
         
-        anim.toValue = -2 * M_PI
+        anim.toValue = -2 * Double.pi
         anim.repeatCount = MAXFLOAT
         anim.duration = 3
         
